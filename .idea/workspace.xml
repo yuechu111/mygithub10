@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a24e0fdf-73f8-4f42-96c4-a67da0e897ab" name="Changes" comment="添加了nnnn">
+    <list default="true" id="a24e0fdf-73f8-4f42-96c4-a67da0e897ab" name="Changes" comment="添加了你好">
       <change beforePath="$PROJECT_DIR$/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764576420086</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加了你好">
+      <option name="closed" value="true" />
+      <created>1765622212022</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765622212022</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +167,8 @@
     <MESSAGE value="添加了" />
     <MESSAGE value="添加了1111111" />
     <MESSAGE value="添加了nnnn" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了nnnn" />
+    <MESSAGE value="添加了你好" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了你好" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
