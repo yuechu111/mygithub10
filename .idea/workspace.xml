@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a24e0fdf-73f8-4f42-96c4-a67da0e897ab" name="Changes" comment="添加了你好">
+    <list default="true" id="a24e0fdf-73f8-4f42-96c4-a67da0e897ab" name="Changes" comment="添加了aaaaa">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -168,7 +169,8 @@
     <MESSAGE value="添加了1111111" />
     <MESSAGE value="添加了nnnn" />
     <MESSAGE value="添加了你好" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了你好" />
+    <MESSAGE value="添加了aaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了aaaaa" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
